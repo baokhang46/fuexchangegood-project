@@ -1,0 +1,14 @@
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+D:\PRU221-VanTT10\FUGoodsExchange\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
