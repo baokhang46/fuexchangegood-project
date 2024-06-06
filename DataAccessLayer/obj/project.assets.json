@@ -3116,11 +3116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3137,8 +3137,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj"
+            "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj"
             }
           }
         }
