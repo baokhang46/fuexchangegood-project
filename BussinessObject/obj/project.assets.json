@@ -4391,11 +4391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj",
+      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
       "projectName": "BussinessObject",
-      "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj",
+      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
       "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\obj\\",
+      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
