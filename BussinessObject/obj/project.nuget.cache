@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVSEFT7ICubrZfg9YgQblRXEMIvuQ/FOkPk7Cmj3kDN+TljS3efOGJbpohB2GIYhPIIXbJ9BDQV7VV9msk9FaA==",
+  "dgSpecHash": "DCkLhO4FVVR0YX1YqU2cMCiHW2ZuRxGNlLAzDd9UyZz1QthbXeMYLFGUrPKJES0Aodgd7UgII2YYHDFevraw6A==",
   "success": true,
-  "projectFilePath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj",
+  "projectFilePath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theni\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\theni\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

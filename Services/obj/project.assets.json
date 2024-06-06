@@ -3152,11 +3152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Services\\Services.csproj",
+      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Services\\obj\\",
+      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3173,8 +3173,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRU221-VanTT10\\FUGoodsExchange\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Repositories\\Repositories.csproj"
+            "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj"
             }
           }
         }

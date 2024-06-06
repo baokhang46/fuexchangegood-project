@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVxLm4W2IvYga3Co3Wjrd72T8kU/RJ/DywHmw6IO+G6vNYDXaEq+KG5KUyFZHR89c6Lepbyw56nf635mcU7hJw==",
+  "dgSpecHash": "vuVehH661NPbuQ+uDjyzX+KBUv2CT3gAAvKYpbJ1hi4L6nwWJgap+IimUVcUgndSHsdmtpXgqqUWqW+oFCCoUw==",
   "success": true,
-  "projectFilePath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theni\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\theni\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

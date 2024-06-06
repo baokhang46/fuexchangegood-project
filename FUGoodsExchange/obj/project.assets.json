@@ -3154,11 +3154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\FUGoodsExchange\\FUGoodsExchange\\FUGoodsExchange.csproj",
+      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\FUGoodsExchange\\FUGoodsExchange.csproj",
       "projectName": "FUGoodsExchange",
-      "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\FUGoodsExchange\\FUGoodsExchange.csproj",
+      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\FUGoodsExchange\\FUGoodsExchange.csproj",
       "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\FUGoodsExchange\\obj\\",
+      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\FUGoodsExchange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3175,14 +3175,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj"
+            "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj"
             },
-            "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "D:\\PRU221-VanTT10\\FUGoodsExchange\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Repositories\\Repositories.csproj"
+            "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj"
             }
           }
         }

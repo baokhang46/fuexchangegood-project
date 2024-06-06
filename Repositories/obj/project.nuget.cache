@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sy7BqQMKC9QadQSYQaC4AJiD3Qn78qpIP1fHzYuCHQldGc1AjAnE3eQrq0vk8CNWm5HOCZngSH1kF9ZSKyDJRg==",
+  "dgSpecHash": "JqKQDK2u5XuIrCqWVYxhKP9iWzaE9QUsgism/hCJ3oevz4pIk4+YBnYy5JYu5YpsQvtlBr6jdv1W+Mq2zBVVBA==",
   "success": true,
-  "projectFilePath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theni\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\theni\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
