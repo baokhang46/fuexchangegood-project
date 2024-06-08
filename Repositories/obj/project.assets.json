@@ -3129,19 +3129,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\theni\\.nuget\\packages\\": {}
+    "C:\\Users\\tuana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\obj\\",
+      "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3155,8 +3155,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
@@ -3165,11 +3165,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3191,7 +3186,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
