@@ -9,61 +9,42 @@ using System.Threading.Tasks;
 
 namespace Services
 {
-    public class AccountService
+    public class AccountService : IAccountService
     {
         private readonly IAccountRepository _accountRepository;
+        public AccountService()
+        {
+            _accountRepository = new AccountRepository();
+        }
+
+        public void CreateAccount(Account account)
+        {
+            _accountRepository.CreateAccount(account);
+        }
+
+        public void DeactivateSystemAccount(int accountId)
+        {
+            _accountRepository.DeactivateSystemAccount(accountId);
+        }
+
         public Account GetAccountByEmail(string email)
         {
             return _accountRepository.GetAccountByEmail(email);
         }
 
-        public static void CreateAccount(Account account)
+        public Account GetAccountById(int accountId)
         {
-            try
-            {
-                using var context = new FugoodExchangeContext();
-                context.Accounts.Add(account);
-                context.SaveChanges();
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
+            return _accountRepository.GetAccountById(accountId);
         }
 
-        public static void UpdateAccount(Account account)
+        public List<Account> GetSystemAccounts()
         {
-            try
-            {
-                using var context = new FugoodExchangeContext();
-                context.Entry<Account>(account).State = EntityState.Modified;
-                context.SaveChanges();
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
+            return _accountRepository.GetSystemAccounts();
         }
 
-        public static List<Account> GetSystemAccounts()
+        public void UpdateAccount(Account account)
         {
-            var listSystemAccounts = new List<Account>();
-            try
-            {
-                using var db = new FugoodExchangeContext();
-                listSystemAccounts = db.Accounts.ToList();
-            }
-            catch (Exception e)
-            {
-
-            }
-            return listSystemAccounts;
-        }
-
-        public static Account GetAccountById(short accountId)
-        {
-            using var db = new FugoodExchangeContext();
-            return db.Accounts.FirstOrDefault(c => c.AccountId == accountId);
+            _accountRepository.UpdateAccount(account);
         }
     }
 }

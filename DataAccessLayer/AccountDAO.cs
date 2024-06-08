@@ -60,19 +60,23 @@ namespace DataAccessLayer
             }
         }
 
-        public static void DeleteSystemAccount(Account account)
+        public static void DeactivateSystemAccount(int accountId)
         {
             try
             {
                 using var context = new FugoodExchangeContext();
-                var a = context.Accounts.SingleOrDefault(c => c.AccountId == c.AccountId);
-                context.Categories.Remove(a);
-                context.SaveChanges();
+                var account = context.Accounts.SingleOrDefault(c => c.AccountId == accountId);
+                if (account != null)
+                {
+                    account.Status = "Inactive";
+                    context.SaveChanges();
+                }
             }
             catch (Exception e)
             {
                 throw new Exception(e.Message);
             }
         }
+
     }
 }
