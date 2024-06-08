@@ -1,10 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\pru221-vantt10\\fuexchangegood-project\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BDCE81-0813-42B3-8AB2-6DCE384423DB}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\dataaccesslayer\\cartitemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\cartitemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|c:\\users\\admin\\desktop\\fuexchangegood-project\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51866031-C41D-4A84-A5DD-1A34612B0B25}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\dataaccesslayer\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\dataaccesslayer\\fugoodexchangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D7F3B1-75A6-4E89-9552-17562669685E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fugoodexchangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\bussinessobject\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208682D7-0106-4796-BAD4-5D117310F77D}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE8E39D-B01A-439A-B585-6F99862BE89E}|FUGoodsExchange\\FUGoodsExchange.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\fugoodsexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE8E39D-B01A-439A-B585-6F99862BE89E}|FUGoodsExchange\\FUGoodsExchange.csproj|solutionrelative:fugoodsexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE8E39D-B01A-439A-B585-6F99862BE89E}|FUGoodsExchange\\FUGoodsExchange.csproj|C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\fugoodsexchange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CE8E39D-B01A-439A-B585-6F99862BE89E}|FUGoodsExchange\\FUGoodsExchange.csproj|solutionrelative:fugoodsexchange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRU221-VanTT10\\NguyenQuangBaoKhang_NET1706_A02\\DataAccess\\SystemAccountDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,28 +138,411 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
-              "ToolTip": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAANAAAA",
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CartItemService.cs",
+              "RelativeDocumentMoniker": "Services\\CartItemService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CartItemService.cs",
+              "RelativeToolTip": "Services\\CartItemService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:34:24.293Z",
+              "WhenOpened": "2024-06-08T14:23:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ICartItemService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICartItemService.cs",
+              "RelativeToolTip": "Services\\ICartItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:13:44.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:44:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "Services\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICartService.cs",
+              "RelativeToolTip": "Services\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:41:30.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:34:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:35:28.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:34:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:34:12.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CartItemRepository.cs",
+              "RelativeToolTip": "Repositories\\CartItemRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:22:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:17:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICartItemRepository.cs",
+              "RelativeToolTip": "Repositories\\ICartItemRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:08:28.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:11:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "Repositories\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:07:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:07:30.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CartItemDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CartItemDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CartItemDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CartItemDAO.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:36:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\CartItem.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\CartItem.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Category.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:35.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Product.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Report.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Report.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Report.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Seller.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Seller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Seller.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:20.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:34:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CartDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CartDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\CartDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CartDAO.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:24:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Account.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:59:09.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Buyer.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Buyer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Buyer.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Buyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:59:42.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\Transaction.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:16.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\User.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\BussinessObject\\Model\\User.cs",
+              "RelativeToolTip": "BussinessObject\\Model\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:10.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:34:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\FUGoodsExchange\\Program.cs",
+              "RelativeDocumentMoniker": "FUGoodsExchange\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\FUGoodsExchange\\Program.cs",
+              "RelativeToolTip": "FUGoodsExchange\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:34:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FugoodExchangeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\FugoodExchangeContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FugoodExchangeContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\FugoodExchangeContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\FugoodExchangeContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:33:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\FUGoodsExchange\\appsettings.json",
+              "RelativeDocumentMoniker": "FUGoodsExchange\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\FUGoodsExchange\\appsettings.json",
+              "RelativeToolTip": "FUGoodsExchange\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T14:33:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "SystemAccountDAO.cs",
               "DocumentMoniker": "D:\\PRU221-VanTT10\\NguyenQuangBaoKhang_NET1706_A02\\DataAccess\\SystemAccountDAO.cs",
-              "RelativeDocumentMoniker": "..\\NguyenQuangBaoKhang_NET1706_A02\\DataAccess\\SystemAccountDAO.cs",
               "ToolTip": "D:\\PRU221-VanTT10\\NguyenQuangBaoKhang_NET1706_A02\\DataAccess\\SystemAccountDAO.cs",
-              "RelativeToolTip": "..\\NguyenQuangBaoKhang_NET1706_A02\\DataAccess\\SystemAccountDAO.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAE8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:30:59.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T18:30:59.432Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

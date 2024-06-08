@@ -1129,7 +1129,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "BussinessObject": "1.0.0"
+          "BussinessObject": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
+          "Microsoft.Extensions.Configuration.Json": "8.0.0"
         },
         "compile": {
           "bin/placeholder/DataAccessLayer.dll": {}
@@ -3129,19 +3131,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\theni\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-      "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3149,14 +3156,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }

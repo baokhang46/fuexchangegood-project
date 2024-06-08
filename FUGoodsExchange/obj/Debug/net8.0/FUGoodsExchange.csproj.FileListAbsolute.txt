@@ -28,3 +28,6 @@ D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange\obj\Debug\net8.0\refint\FUGood
 D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange\obj\Debug\net8.0\FUGoodsExchange.pdb
 D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange\obj\Debug\net8.0\FUGoodsExchange.genruntimeconfig.cache
 D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange\obj\Debug\net8.0\ref\FUGoodsExchange.dll
+C:\Users\Admin\Desktop\fuexchangegood-project\FUGoodsExchange\obj\Debug\net8.0\FUGoodsExchange.dll
+C:\Users\Admin\Desktop\fuexchangegood-project\FUGoodsExchange\obj\Debug\net8.0\refint\FUGoodsExchange.dll
+C:\Users\Admin\Desktop\fuexchangegood-project\FUGoodsExchange\obj\Debug\net8.0\FUGoodsExchange.pdb

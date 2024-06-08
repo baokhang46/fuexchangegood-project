@@ -65,8 +65,8 @@ namespace DataAccessLayer
             try
             {
                 using var context = new FugoodExchangeContext();
-                var a = context.Accounts.SingleOrDefault(c => c.AccountId == c.AccountId);
-                context.Categories.Remove(a);
+                var a = context.Accounts.SingleOrDefault(c => c.AccountId == account.AccountId);
+                context.Accounts.Remove(a);
                 context.SaveChanges();
             }
             catch (Exception e)
