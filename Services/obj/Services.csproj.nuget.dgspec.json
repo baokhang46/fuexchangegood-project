@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj": {}
+    "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
+    "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
+        "projectUniqueName": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
         "projectName": "BussinessObject",
-        "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
-        "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-        "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\obj\\",
+        "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
+        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-        "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\obj\\",
+        "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj"
+              "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj"
               }
             }
           }
@@ -114,11 +109,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -140,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
+    "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-        "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\obj\\",
+        "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,8 +158,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -178,11 +168,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -204,21 +189,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj": {
+    "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-        "outputPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Services\\obj\\",
+        "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -232,8 +217,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\PRU221-VanTT10\\fuexchangegood-project\\Repositories\\Repositories.csproj"
+              "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\PRN221_10W\\VanVTT\\PRN221\\fuexchangegood-project\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -242,11 +227,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -268,7 +248,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
