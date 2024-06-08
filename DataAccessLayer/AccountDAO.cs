@@ -78,5 +78,23 @@ namespace DataAccessLayer
             }
         }
 
+        public static void ReactivateSystemAccount(int accountId)
+        {
+            try
+            {
+                using var context = new FugoodExchangeContext();
+                var account = context.Accounts.SingleOrDefault(c => c.AccountId == accountId);
+                if (account != null)
+                {
+                    account.Status = "Active";
+                    context.SaveChanges();
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+        }
+
     }
 }

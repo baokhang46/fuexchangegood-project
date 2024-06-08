@@ -12,7 +12,7 @@ namespace Repositories
     {
         public Account GetAccountByEmail(string email)
             => AccountDAO.GetAccountByEmail(email);
-        public List<Account> GetSystemAccounts()
+        public List<Account> GetAllAccounts()
             => AccountDAO.GetSystemAccounts();
         public Account GetAccountById(int accountId)
             => AccountDAO.GetAccountById(accountId);
@@ -20,7 +20,9 @@ namespace Repositories
             => AccountDAO.CreateAccount(account);
         public void UpdateAccount(Account account)
             => AccountDAO.UpdateAccount(account);
-        public void DeactivateSystemAccount(int accountId)
+        public void DeactivateAccount(int accountId)
+            => AccountDAO.DeactivateSystemAccount(accountId);
+        public void ReactivateAccount(int accountId)
             => AccountDAO.DeactivateSystemAccount(accountId);
 
     }
