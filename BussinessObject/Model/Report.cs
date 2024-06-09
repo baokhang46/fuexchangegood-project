@@ -15,7 +15,7 @@ public partial class Report
 
     public DateOnly? ReportDate { get; set; }
 
-    public bool? Status { get; set; }
+    public string Status { get; set; } = "Active";
 
     public virtual Buyer Buyer { get; set; } = null!;
 

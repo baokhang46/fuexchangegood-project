@@ -11,7 +11,7 @@ namespace DataAccessLayer
             return db.Accounts.FirstOrDefault(x => x.Email.Equals(email));
         }
 
-        public static List<Account> GetSystemAccounts()
+        public static List<Account> GetAllAccounts()
         {
             var listSystemAccounts = new List<Account>();
             try
