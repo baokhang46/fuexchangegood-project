@@ -37,10 +37,6 @@ namespace Services
             return _accountRepository.GetAccountById(accountId);
         }
 
-        public List<Account> GetAccounts()
-        {
-            return _accountRepository.GetAllAccounts();
-        }
 
         public void UpdateAccount(Account account)
         {
@@ -54,7 +50,7 @@ namespace Services
 
         public List<Account> GetAllAccounts()
         {
-            throw new NotImplementedException();
+            return _accountRepository.GetAllAccounts();
         }
     }
 }
