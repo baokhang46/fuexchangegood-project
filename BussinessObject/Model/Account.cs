@@ -13,7 +13,7 @@ public partial class Account
 
     public string Email { get; set; } = null!;
 
-    public string Status { get; set; } = null!;
+    public string Status { get; set; } = "Active";
 
     public virtual ICollection<User> Users { get; set; } = new List<User>();
 }
