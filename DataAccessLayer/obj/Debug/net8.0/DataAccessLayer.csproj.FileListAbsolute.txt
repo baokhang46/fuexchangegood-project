@@ -1,0 +1,16 @@
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN221_10W\VanVTT\PRN221\fuexchangegood-project\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
