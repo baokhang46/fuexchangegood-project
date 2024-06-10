@@ -1,0 +1,60 @@
+﻿@page
+@model FUGoodsExchange.Pages.OrderList.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Order</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Order.OrderId" />
+            <div class="form-group">
+                <label asp-for="Order.ProductId" class="control-label"></label>
+                <select asp-for="Order.ProductId" class="form-control" asp-items="ViewBag.ProductId"></select>
+                <span asp-validation-for="Order.ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.Quantity" class="control-label"></label>
+                <input asp-for="Order.Quantity" class="form-control" />
+                <span asp-validation-for="Order.Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.TotalPrice" class="control-label"></label>
+                <input asp-for="Order.TotalPrice" class="form-control" />
+                <span asp-validation-for="Order.TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.BuyerId" class="control-label"></label>
+                <select asp-for="Order.BuyerId" class="form-control" asp-items="ViewBag.BuyerId"></select>
+                <span asp-validation-for="Order.BuyerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.SellerId" class="control-label"></label>
+                <select asp-for="Order.SellerId" class="form-control" asp-items="ViewBag.SellerId"></select>
+                <span asp-validation-for="Order.SellerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.TransactionId" class="control-label"></label>
+                <input asp-for="Order.TransactionId" class="form-control" />
+                <span asp-validation-for="Order.TransactionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
