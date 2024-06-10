@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FUGoodsExchange
 build_property.RootNamespace = FUGoodsExchange
-build_property.ProjectDir = D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange\
+build_property.ProjectDir = C:\Users\Minh\Desktop\prn221 as\fuexchangegood-project\FUGoodsExchange\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PRU221-VanTT10\FUGoodsExchange\FUGoodsExchange
+build_property.MSBuildProjectDirectory = C:\Users\Minh\Desktop\prn221 as\fuexchangegood-project\FUGoodsExchange
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/Error.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/Index.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/Privacy.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/_ViewImports.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/_ViewStart.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PRU221-VanTT10/FUGoodsExchange/FUGoodsExchange/Pages/Shared/_Layout.cshtml]
+[C:/Users/Minh/Desktop/prn221 as/fuexchangegood-project/FUGoodsExchange/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yov2tn0lq2

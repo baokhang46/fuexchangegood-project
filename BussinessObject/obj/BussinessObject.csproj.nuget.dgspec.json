@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj": {}
+    "C:\\Users\\Minh\\Desktop\\prn221 as\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {}
   },
   "projects": {
-    "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj": {
+    "C:\\Users\\Minh\\Desktop\\prn221 as\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\Minh\\Desktop\\prn221 as\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
         "projectName": "BussinessObject",
-        "projectPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\BussinessObject.csproj",
-        "packagesPath": "C:\\Users\\theni\\.nuget\\packages\\",
-        "outputPath": "D:\\PRU221-VanTT10\\FUGoodsExchange\\BussinessObject\\obj\\",
+        "projectPath": "C:\\Users\\Minh\\Desktop\\prn221 as\\fuexchangegood-project\\BussinessObject\\BussinessObject.csproj",
+        "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Minh\\Desktop\\prn221 as\\fuexchangegood-project\\BussinessObject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\theni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
